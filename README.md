@@ -1,7 +1,10 @@
 # devsecops-k3d-platform
 A DevSecOps lab focused on securing software supply chain — from CI/CD pipelines to K3d runtime - against vulnerabilities and breaches.
 
-🚧 Project in development 🚧
+🚧 Project under development 🚧
+
+I document all challenges, architectural decisions, and "lessons learned" on my technical blog:
+[Link](https://m1lachite.github.io/)
 
 Structure:
 
