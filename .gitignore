@@ -8,3 +8,6 @@ secrets.yaml
 
 # Personal notes
 *_doc.md
+
+# Secrets
+.env
