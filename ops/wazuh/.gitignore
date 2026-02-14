@@ -1,0 +1,7 @@
+config/wazuh_indexer_ssl_certs/*.pem
+config/wazuh_indexer_ssl_certs/*.key
+config/wazuh_indexer_ssl_certs/*.p12
+config/wazuh_indexer_ssl_certs/admin.pem
+config/wazuh_indexer_ssl_certs/admin-key.pem
+config/wazuh_indexer_ssl_certs/root-ca.pem
+config/wazuh_indexer_ssl_certs/root-ca.key
